@@ -1,4 +1,3 @@
-#第四版用格溫程式碼加入裝飾器
 import sqlite3, threading, time, sys
 from datetime import datetime, timedelta
 from functools import wraps
